@@ -1,0 +1,8 @@
+[
+  { "id": "technical", "name": "Technical / Professional Activities" },
+  { "id": "sports", "name": "Sports" },
+  { "id": "cultural", "name": "Cultural Activities" },
+  { "id": "social", "name": "Social Service" },
+  { "id": "entrepreneurship", "name": "Entrepreneurship" },
+  { "id": "leadership", "name": "Leadership Activities" }
+]

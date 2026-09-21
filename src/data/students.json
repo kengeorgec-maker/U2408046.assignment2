@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "STU2023001",
+    "password": "pass123",
+    "name": "Ananya Menon",
+    "department": "Computer Science and Engineering",
+    "semester": 5,
+    "targetPoints": 100
+  },
+  {
+    "uid": "STU2023002",
+    "password": "pass456",
+    "name": "Rahul Nair",
+    "department": "Electronics and Communication",
+    "semester": 3,
+    "targetPoints": 80
+  }
+]
