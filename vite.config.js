@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react'
 // then base should be '/points-app/'
 export default defineConfig({
   plugins: [react()],
-  base: '/activity-points-app/',
+  base: '/U2408046.assignment2/',
 })
